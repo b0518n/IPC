@@ -1,0 +1,15 @@
+C:\Users\b0518\source\repos\NamedPipeServer\bin\Debug\net7.0\NamedPipeServer.exe
+C:\Users\b0518\source\repos\NamedPipeServer\bin\Debug\net7.0\NamedPipeServer.deps.json
+C:\Users\b0518\source\repos\NamedPipeServer\bin\Debug\net7.0\NamedPipeServer.runtimeconfig.json
+C:\Users\b0518\source\repos\NamedPipeServer\bin\Debug\net7.0\NamedPipeServer.dll
+C:\Users\b0518\source\repos\NamedPipeServer\bin\Debug\net7.0\NamedPipeServer.pdb
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.csproj.AssemblyReference.cache
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.AssemblyInfoInputs.cache
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.AssemblyInfo.cs
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.csproj.CoreCompileInputs.cache
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.dll
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\refint\NamedPipeServer.dll
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.pdb
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\NamedPipeServer.genruntimeconfig.cache
+C:\Users\b0518\source\repos\NamedPipeServer\obj\Debug\net7.0\ref\NamedPipeServer.dll
